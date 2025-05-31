@@ -26,7 +26,9 @@ npm install
 
 3. **ENV**
 
-Add env provided in email in file `.env.local`
+```bash
+Add env provided in email in file named .env.local
+```
 
 4. **Start the development server**
 
