@@ -24,7 +24,11 @@ cd
 npm install
 ```
 
-3. **Start the development server**
+3. **ENV**
+
+Add env provided in email in file `.env.local`
+
+4. **Start the development server**
 
 ```bash
 npm run dev
